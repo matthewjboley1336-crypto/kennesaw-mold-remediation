@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://matthewjboley1336-crypto.github.io/kennesaw-mold-remediation/sitemap.xml
